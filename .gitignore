@@ -1,0 +1,5 @@
+/build*
+*.exe
+*_lab*
+*.sample*
+*/kd_tree/*
